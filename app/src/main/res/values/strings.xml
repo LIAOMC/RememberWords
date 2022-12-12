@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">不背单词</string>
+    <string name="prompt_userid">请输入用户账号</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_register">注册</string>
+    <string name="action_sign_in">登录</string>
+    <string name="nav_personal_title">个人中心</string>
+    <string name="nav_communicate_title">普通菜单</string>
+    <string name="nav_logout_title">退出</string>
+    <string name="nav_about_title">关于</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="button_register">确认</string>
+    <string name="button_return">返回</string>
+    <string name="prompt_username">姓名</string>
+    <string name="prompt_goods_num">数量</string>
+    <string name="prompt_usertel">电话</string>
+    <string name="prompt_useraddress">地址</string>
+    <string name="prompt_repassword">请再次输入密码</string>
+    <string name="prompt_register_userq1">找回密码问题1</string>
+    <string name="prompt_register_usera1">找回密码答案1</string>
+    <string name="prompt_register_userq2">找回密码问题2</string>
+    <string name="prompt_register_usera2">找回密码答案2</string>
+    <string name="prompt_register_userq3">找回密码问题3</string>
+    <string name="prompt_register_usera3">找回密码答案3</string>
+    <string name="prompt_recipient_name">收件人</string>
+    <string name="prompt_recipient_address">收件地址</string>
+    <string name="prompt_recipient_tel">联系电话</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main">饭点到</string>
+
+    <string name="prompt_username_seller">卖家名称</string>
+    <string name="prompt_seller_businessLicence_id">营业执照编号</string>
+    <string name="prompt_seller_legalperson_iDcard">法人身份证编号</string>
+    <string name="prompt_usertel_seller">联系电话</string>
+    <string name="prompt_useraddress_seller">联系地址</string>
+
+    <string name="title_activity_about">饭点到</string>
+    <string name="title_activity_goods_info">商品详情</string>
+
+    <string name="prompt_goods_name">名称</string>
+    <string name="prompt_goods_type">类型</string>
+    <string name="prompt_goods_pic">图片路径</string>
+    <string name="prompt_goods_price">价格</string>
+    <string name="prompt_goods_introduction">简介</string>
+    <string name="prompt_orders_notes">备注</string>
+
+    <string name="title_Edit_info">编辑资料</string>
+    <string name="title_manage_goods">商品管理</string>
+    <string name="title_seller_add_goods">添加商品</string>
+    <string name="title_Orders">订单</string>
+    <string name="title_orders_add">添加订单</string>
+
+
+    <string name="title_fab_edit_info">编辑资料</string>
+    <string name="title_fab_orders_list">订单管理</string>
+    <string name="title_fab_manage_goods">商品管理</string>
+
+
+    <string name="package_name_text">包名:poqceo.timetoeat</string>
+
+
+</resources>

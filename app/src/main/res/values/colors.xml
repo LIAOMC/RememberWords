@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#61ac85</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="background">#65828e</color>
+    <color name="main_color">#ff9a00</color>
+    <color name="second_arycolor">#BDBDBD</color>
+    <color name="PUBULAN">#51c4d3</color>
+    <color name="DANTAOHONG">#f6cec1</color>
+    <color name="FENHONG">#f2b9b2</color>
+    <color name="TANCCILAN">#11659A</color>
+    <color name="YANHONG">#ed5a65</color>
+    <color name="TIANYUANLV">#a4cab6</color>
+    <color name="TIANYUANLV01">#68b88e</color>
+    <color name="JIANLV">#61ac85</color>
+    <color name="YUZHANLV">#a4cab6</color>
+    <color name="through">#53A253</color>
+    <color name="nothrough">#E62C2A</color>
+</resources>
